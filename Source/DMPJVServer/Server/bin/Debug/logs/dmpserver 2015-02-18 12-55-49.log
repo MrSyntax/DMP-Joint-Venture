@@ -1,0 +1,14 @@
+[12:55:50][DEBUG] : Loading settings
+[12:55:51][DEBUG] : Saving settings
+[12:55:51][DEBUG] : Saving settings
+[12:55:51][DEBUG] : System.IO compression works: True, test time: 263 ms.
+[12:55:52][DEBUG] : Loading plugins!
+[12:55:52][DEBUG] : Done!
+[12:55:52][INFO] : Starting DMPServer Custom, protocol 33
+[12:55:52][INFO] : Loading universe... 
+[12:55:52][INFO] : Done!
+[12:55:52][INFO] : Starting SUBSPACE server on port 6702... 
+[12:55:52][DEBUG] : Creating new subspace lock file
+[12:55:53][INFO] : Done!
+[12:55:53][INFO] : Done!
+[12:55:53][INFO] : Removed 0 debris

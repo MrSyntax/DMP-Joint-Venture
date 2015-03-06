@@ -1,0 +1,23 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\bin\Release\TradingSystemServer.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\bin\Release\TradingSystemServer.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\bin\Release\DMPServer.exe
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\bin\Release\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\bin\Release\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\obj\Release\TradingSystemServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\obj\Release\TradingSystemServer.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemServer\obj\Release\TradingSystemServer.pdb
+D:\github\DMP - Joint Venture\TradingSystemServer\bin\Release\TradingSystemServer.dll
+D:\github\DMP - Joint Venture\TradingSystemServer\bin\Release\TradingSystemServer.pdb
+D:\github\DMP - Joint Venture\TradingSystemServer\bin\Release\DMPServer.exe
+D:\github\DMP - Joint Venture\TradingSystemServer\bin\Release\DarkMultiPlayer-Common.dll
+D:\github\DMP - Joint Venture\TradingSystemServer\bin\Release\MessageWriter2.dll
+D:\github\DMP - Joint Venture\TradingSystemServer\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\github\DMP - Joint Venture\TradingSystemServer\obj\Release\TradingSystemServer.csprojResolveAssemblyReference.cache
+D:\github\DMP - Joint Venture\TradingSystemServer\obj\Release\TradingSystemServer.dll
+D:\github\DMP - Joint Venture\TradingSystemServer\obj\Release\TradingSystemServer.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\TradingSystemServer.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\TradingSystemServer.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\obj\Release\TradingSystemServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\obj\Release\TradingSystemServer.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\obj\Release\TradingSystemServer.pdb

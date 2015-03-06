@@ -1,0 +1,77 @@
+pid = 0261325235e64d689fa3bb27ae978868
+name = Ast. BYX-556
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = 0.277141379286014
+lon = 214.863189313307
+alt = 17981001823.9795
+hgt = -1
+nrm = 0,1,0
+rot = 0.1992849,0.7443427,0.08660915,0.6314573
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 16066481414.8807
+	ECC = 0.152386224627817
+	INC = 0.681353353006771
+	LPE = 180.493899477541
+	LAN = 191.124867766788
+	MNA = 6.11586768397073
+	EPH = 4567830.94299329
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1904354622
+	mid = 1904354622
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 144480.013275146
+	refTime = 1728000
+	size = 1
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

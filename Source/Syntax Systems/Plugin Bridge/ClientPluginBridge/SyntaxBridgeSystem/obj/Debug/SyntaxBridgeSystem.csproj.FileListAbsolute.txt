@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\DarkMultiPlayer.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\MessageWriter2.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\UnityEngine.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\AntiCheatSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\bin\Debug\AntiCheatSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\obj\Debug\SyntaxBridgeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\obj\Debug\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\obj\Debug\SyntaxBridgeSystem.pdb

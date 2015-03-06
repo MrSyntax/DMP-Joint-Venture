@@ -1,0 +1,77 @@
+pid = c2de1bd9c7564ad48be789a130fb1240
+name = Ast. TPC-931
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = 0.454191041409705
+lon = 178.906629929132
+alt = 13184107748.6141
+hgt = -1
+nrm = 0,1,0
+rot = 0.03650555,-0.4918506,-0.6606624,0.5659289
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 13565290446.0573
+	ECC = 0.00924577318872345
+	INC = 0.474511488733906
+	LPE = 89.1161779313893
+	LAN = 72.3394514842142
+	MNA = 1.25282070299288
+	EPH = 1385508.01208509
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1456589678
+	mid = 1456589678
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 242050.080871582
+	refTime = 1728000
+	size = 2
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

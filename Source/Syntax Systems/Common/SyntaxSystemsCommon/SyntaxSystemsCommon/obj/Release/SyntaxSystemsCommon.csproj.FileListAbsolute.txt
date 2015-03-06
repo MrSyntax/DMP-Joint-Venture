@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\bin\Release\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\bin\Release\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\bin\Release\UnityEngine.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\bin\Release\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\bin\Release\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\obj\Release\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\obj\Release\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemCommon\obj\Release\SyntaxSystemsCommon.csprojResolveAssemblyReference.cache
+D:\github\SyntaxPlugins\SyntaxSystemsCommon.dll
+D:\github\SyntaxPlugins\SyntaxSystemsCommon.pdb
+D:\github\DMP - Joint Venture\TradingSystemCommon\obj\Release\SyntaxSystemsCommon.csprojResolveAssemblyReference.cache
+D:\github\DMP - Joint Venture\TradingSystemCommon\obj\Release\SyntaxSystemsCommon.dll
+D:\github\DMP - Joint Venture\TradingSystemCommon\obj\Release\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureCommon\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureCommon\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Common\SyntaxSystemsCommon\SyntaxSystemsCommon\obj\Release\SyntaxSystemsCommon.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Common\SyntaxSystemsCommon\SyntaxSystemsCommon\obj\Release\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Common\SyntaxSystemsCommon\SyntaxSystemsCommon\obj\Release\SyntaxSystemsCommon.pdb

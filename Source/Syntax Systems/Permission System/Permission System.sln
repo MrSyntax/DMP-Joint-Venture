@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMPPermissionSystemServer", "DMPPermissionSystem\DMPPermissionSystemServer.csproj", "{CF45F922-DFF4-468E-8BD7-92EC0349F676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionSystemClient", "PermissionSystemClient\PermissionSystemClient.csproj", "{84937B30-6334-4665-BA8D-51E96E25A440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF45F922-DFF4-468E-8BD7-92EC0349F676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF45F922-DFF4-468E-8BD7-92EC0349F676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF45F922-DFF4-468E-8BD7-92EC0349F676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF45F922-DFF4-468E-8BD7-92EC0349F676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84937B30-6334-4665-BA8D-51E96E25A440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84937B30-6334-4665-BA8D-51E96E25A440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84937B30-6334-4665-BA8D-51E96E25A440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84937B30-6334-4665-BA8D-51E96E25A440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

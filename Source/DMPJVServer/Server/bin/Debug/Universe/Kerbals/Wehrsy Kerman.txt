@@ -1,0 +1,16 @@
+name = Wehrsy Kerman
+type = Crew
+brave = 0.09102094
+dumb = 0.4858944
+badS = False
+state = Available
+ToD = 0
+idx = -1
+CAREER_LOG
+{
+	flight = 0
+}
+FLIGHT_LOG
+{
+	flight = 0
+}

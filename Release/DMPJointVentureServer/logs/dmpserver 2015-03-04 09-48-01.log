@@ -1,0 +1,34 @@
+[09:48:01][DEBUG] : Loading settings
+[09:48:01][DEBUG] : Saving settings
+[09:48:01][DEBUG] : Saving settings
+[09:48:01][DEBUG] : System.IO compression works: True, test time: 5 ms.
+[09:48:01][DEBUG] : Loading plugins!
+[09:48:01][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\AntiCheatSystemServer.dll
+[09:48:01][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\DarkMultiPlayer-Common.dll
+[09:48:01][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\DMPPermissionSystem.dll
+[09:48:02][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\ICSharpCode.SharpZipLib.dll
+[09:48:02][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\MessageWriter2.dll
+[09:48:02][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\SyntaxServerMessageHandler.dll
+[09:48:02][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\SyntaxSystemsCommon.dll
+[09:48:02][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\TradingSystemServer.dll
+[09:48:02][DEBUG] : Loaded C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\UnityEngine.dll
+[09:48:02][DEBUG] : Loading plugin: SyntaxServerMessageHandler.SyntaxTradeSystemHamdler
+[09:48:02][DEBUG] : Loaded plugin: SyntaxServerMessageHandler.SyntaxTradeSystemHamdler
+[09:48:02][DEBUG] : Loading plugin: SyntaxServerMessageHandler.SyntaxAntiCheatSystemHandler
+[09:48:02][DEBUG] : Loaded plugin: SyntaxServerMessageHandler.SyntaxAntiCheatSystemHandler
+[09:48:02][DEBUG] : Loading plugin: PermissionSystem.PermissionSystemPlugin
+[09:48:02][DEBUG] : Loaded plugin: PermissionSystem.PermissionSystemPlugin
+[09:48:02][DEBUG] : Done!
+[09:48:02][INFO] : Starting DMPServer Custom, protocol 40
+[09:48:02][INFO] : Loading universe... 
+[09:48:02][INFO] : Done!
+[09:48:02][INFO] : Starting SUBSPACE server on port 6702... 
+[09:48:02][DEBUG] : Creating new subspace lock file
+[09:48:02][INFO] : Removed 0 debris
+[09:48:03][INFO] : Done!
+[09:48:03][INFO] : Starting Syntaxcodes Permissions System..
+[09:48:03][INFO] : Starting Syntaxcodes Permissions System started.
+[09:48:03][INFO] : Done!
+[09:48:03][DEBUG] : Registered mod handler for TRADINGSYSTEM
+[09:48:03][DEBUG] : Registered mod handler for ANTICHEAT
+[09:48:03][DEBUG] : Registered mod handler for PERMISSIONSYSTEM

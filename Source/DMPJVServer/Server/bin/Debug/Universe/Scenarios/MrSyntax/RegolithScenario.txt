@@ -1,0 +1,6 @@
+name = RegolithScenario
+scene = 5, 7, 6
+RegolithGameSettings
+{
+	GameSeed = 1204129243
+}

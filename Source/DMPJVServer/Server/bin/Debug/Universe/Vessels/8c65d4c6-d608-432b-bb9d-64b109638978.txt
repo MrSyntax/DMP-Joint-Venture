@@ -1,0 +1,77 @@
+pid = 8c65d4c6d608432bbb9d64b109638978
+name = Ast. PGG-163
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = 0.875752855440192
+lon = 177.074902961905
+alt = 14413811680.4357
+hgt = -1
+nrm = 0,1,0
+rot = 0.6019986,-0.5535938,0.2586267,0.5140466
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 16598187560.7737
+	ECC = 0.18263549611645
+	INC = 0.945701859239326
+	LPE = 171.455573275054
+	LAN = 65.1595970337095
+	MNA = 0.0934261132293983
+	EPH = 1651302.28088392
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 424127710
+	mid = 424127710
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 546695.782470703
+	refTime = 1728000
+	size = 1
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

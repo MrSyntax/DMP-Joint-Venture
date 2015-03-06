@@ -1,0 +1,77 @@
+pid = 8608952c9c1c47ad9994ec36120faaaa
+name = Ast. HSL-016
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = -0.216901322293871
+lon = 180.336110558611
+alt = 13425099091.471
+hgt = -1
+nrm = 0,1,0
+rot = -0.3677074,-0.8428652,0.2644116,0.2906133
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 13666063203.2637
+	ECC = 0.00278714075833817
+	INC = 0.232330398357592
+	LPE = 11.9404071364559
+	LAN = 291.596292334634
+	MNA = 6.25990878886213
+	EPH = 3125024.04602064
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1709036614
+	mid = 1709036614
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 199420.703887939
+	refTime = 1728000
+	size = 2
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

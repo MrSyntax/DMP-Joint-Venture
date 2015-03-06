@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7AD735F5-A076-44D2-97EC-02ECAD827001}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DarkMultiPlayer</RootNamespace>
+    <AssemblyName>DarkMultiPlayer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\Release\DMPJointVentureClient\Plugins\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="AntiCheatSystem">
+      <HintPath>..\..\..\Release\DMPJointVentureClient\Plugins\AntiCheatSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DarkMultiPlayer-Common, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Release\DMPJointVentureCommon\DarkMultiPlayer-Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MessageWriter2, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MessageWriter2.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxSystemsCommon">
+      <HintPath>..\..\..\Release\DMPJointVentureCommon\SyntaxSystemsCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AntiCheatSystemHandler.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="ConfigNodeSerializer.cs" />
+    <Compile Include="Utilities\CompatibilityChecker.cs" />
+    <Compile Include="VesselWorker.cs" />
+    <Compile Include="TimeSyncer.cs" />
+    <Compile Include="NetworkWorker.cs" />
+    <Compile Include="ConnectionWindow.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="WarpWorker.cs" />
+    <Compile Include="PlayerStatusWindow.cs" />
+    <Compile Include="PlayerStatusWorker.cs" />
+    <Compile Include="ScenarioWorker.cs" />
+    <Compile Include="DebugWindow.cs" />
+    <Compile Include="DynamicTickWorker.cs" />
+    <Compile Include="ModWorker.cs" />
+    <Compile Include="ModWindow.cs" />
+    <Compile Include="CraftLibraryWorker.cs" />
+    <Compile Include="ChatWorker.cs" />
+    <Compile Include="UniverseSyncCache.cs" />
+    <Compile Include="ScreenshotWorker.cs" />
+    <Compile Include="LockSystem.cs" />
+    <Compile Include="AsteroidWorker.cs" />
+    <Compile Include="PlayerColorWorker.cs" />
+    <Compile Include="OptionsWindow.cs" />
+    <Compile Include="UniverseConverter.cs" />
+    <Compile Include="UniverseConverterWindow.cs" />
+    <Compile Include="Utilities\InstallChecker.cs" />
+    <Compile Include="FlagSyncer.cs" />
+    <Compile Include="DisclaimerWindow.cs" />
+    <Compile Include="DMPModInterface.cs" />
+    <Compile Include="Profiler.cs" />
+    <Compile Include="AdminSystem.cs" />
+    <Compile Include="VesselUpdate.cs" />
+    <Compile Include="VesselUtil.cs" />
+    <Compile Include="VesselProtoUpdate.cs" />
+    <Compile Include="DMPGuiUtil.cs" />
+    <Compile Include="ToolbarWrapper.cs" />
+    <Compile Include="ToolbarSupport.cs" />
+  </ItemGroup>
+</Project>

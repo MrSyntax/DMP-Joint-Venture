@@ -1,0 +1,28 @@
+TODO:
+
+
+Trading System
+
+	Finish system objects
+	Finish mod handler
+		Write messaging receive/response
+	Finish data read/write
+
+Banking system
+	
+	Finish mod handler
+		Write messaging receive/response
+
+Currency section
+
+	Figure out the various components needed for a currency system
+	Maybe research the subject online first.
+
+System Request Evaluation System
+
+	Figure out how to evaluate client requests to/from the trading system.
+	
+
+Systems configurations
+
+	Figure out what configurations are available and should be set , written and read to and from file

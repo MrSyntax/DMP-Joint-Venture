@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\bin\Debug\TradingSystemServer.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\bin\Debug\TradingSystemServer.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\bin\Debug\DMPServer.exe
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\bin\Debug\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\bin\Debug\MessageWriter2.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\obj\Debug\TradingSystemServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\obj\Debug\TradingSystemServer.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Commerce System\serverside\CommerceSystemServer\TradingSystemServer\obj\Debug\TradingSystemServer.pdb

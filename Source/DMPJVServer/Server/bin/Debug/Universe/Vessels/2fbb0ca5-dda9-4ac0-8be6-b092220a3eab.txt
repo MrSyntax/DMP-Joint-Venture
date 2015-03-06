@@ -1,0 +1,77 @@
+pid = 2fbb0ca5dda94ac08be6b092220a3eab
+name = Ast. CSO-784
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = 0.494318188550149
+lon = 177.942316131035
+alt = 13371034814.2799
+hgt = -1
+nrm = 0,1,0
+rot = -0.3987078,-0.5994086,0.2347686,0.6531655
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 13819114040.582
+	ECC = 0.0231485760869444
+	INC = 0.5049057999624
+	LPE = 133.673228217563
+	LAN = 99.9584168247799
+	MNA = 0.65094697385904
+	EPH = 2371762.77282728
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 906276114
+	mid = 906276114
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 1696869.74487305
+	refTime = 1728000
+	size = 3
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

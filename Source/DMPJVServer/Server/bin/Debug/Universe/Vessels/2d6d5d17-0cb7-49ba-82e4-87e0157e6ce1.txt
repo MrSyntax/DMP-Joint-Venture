@@ -1,0 +1,77 @@
+pid = 2d6d5d170cb749ba82e487e0157e6ce1
+name = Ast. YAA-468
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = -1.01744952634489
+lon = 182.14455332591
+alt = 14418932341.0115
+hgt = -1
+nrm = 0,1,0
+rot = 0.09168165,-0.6834259,-0.5947042,0.4133405
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 14303570097.6531
+	ECC = 0.05648205398586
+	INC = 1.68290682659648
+	LPE = 337.842921905751
+	LAN = 325.21555803781
+	MNA = 0.377248771576805
+	EPH = 3766152.09777845
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1267160055
+	mid = 1267160055
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 1126376.58691406
+	refTime = 1728000
+	size = 2
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

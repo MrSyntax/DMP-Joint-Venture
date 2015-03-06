@@ -1,0 +1,14 @@
+name = ProgressTracking
+scene = 7, 8, 5
+Progress
+{
+	FirstLaunch
+	{
+		completed = 535.613020899994
+	}
+	AltitudeRecord
+	{
+		reached = 658.713020899883
+		record = 32514.6720421012
+	}
+}

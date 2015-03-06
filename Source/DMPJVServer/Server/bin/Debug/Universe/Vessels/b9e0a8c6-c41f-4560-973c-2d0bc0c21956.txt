@@ -1,0 +1,77 @@
+pid = b9e0a8c6c41f4560973c2d0bc0c21956
+name = Ast. YZR-791
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = -2.01018735433957
+lon = 184.494220693811
+alt = 14551341223.6538
+hgt = -1
+nrm = 0,1,0
+rot = 0.1485834,0.0526682,0.8959782,0.4151773
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 14475766813.1219
+	ECC = 0.0625953889805657
+	INC = 2.02129176120812
+	LPE = 19.1313172057586
+	LAN = 280.766850279302
+	MNA = 5.95642713821356
+	EPH = 2521276.75598158
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 262203644
+	mid = 262203644
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 1457154.27246094
+	refTime = 1728000
+	size = 1
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

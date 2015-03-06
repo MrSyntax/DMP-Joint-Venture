@@ -1,0 +1,77 @@
+pid = 39be72be4a374924a7ce950486970aae
+name = Ast. BKQ-713
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = -0.253225773562322
+lon = 186.209820202113
+alt = 13728869269.9921
+hgt = -1
+nrm = 0,1,0
+rot = -0.7284319,-0.4885369,-0.4666238,0.1139345
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 13786073662.827
+	ECC = 0.0188681754825278
+	INC = 0.869648360949841
+	LPE = 54.4726665742739
+	LAN = 349.543920003239
+	MNA = 5.42136098396428
+	EPH = 4422881.28479017
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1414053464
+	mid = 1414053464
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 91167.3007965088
+	refTime = 1728000
+	size = 2
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

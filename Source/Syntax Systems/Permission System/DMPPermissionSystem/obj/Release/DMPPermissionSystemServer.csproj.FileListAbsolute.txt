@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\obj\Release\DMPPermissionSystemServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\obj\Release\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\obj\Release\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DMPServer.exe
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\AntiCheatSystemServer.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\AntiCheatSystemServer.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Server\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Server\DMPPermissionSystem.pdb
+D:\github\SyntaxPlugins\Server\DMPPermissionSystem.dll
+D:\github\SyntaxPlugins\Server\DMPPermissionSystem.pdb
+D:\github\DMP - Joint Venture\DMPPermissionSystem\obj\Release\DMPPermissionSystemServer.csprojResolveAssemblyReference.cache
+D:\github\DMP - Joint Venture\DMPPermissionSystem\obj\Release\DMPPermissionSystem.dll
+D:\github\DMP - Joint Venture\DMPPermissionSystem\obj\Release\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\SyntaxPlugins\Server\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\SyntaxPlugins\Server\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Permission System\DMPPermissionSystem\obj\Release\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Permission System\DMPPermissionSystem\obj\Release\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureServer\Plugins\DMPPermissionSystem.pdb

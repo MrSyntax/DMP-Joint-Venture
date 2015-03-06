@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ServerPluginBridge\SyntaxServerMessageHandler\obj\Debug\SyntaxServerMessageHandler.csprojResolveAssemblyReference.cache

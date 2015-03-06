@@ -1,0 +1,77 @@
+pid = 0e152e100aa04cfbbfc8d94248feb27d
+name = Ast. NRH-666
+type = SpaceObject
+sit = ORBITING
+landed = False
+landedAt = 
+splashed = False
+met = 313.9141847
+lct = 313.9141847
+root = 0
+lat = -0.328583330151583
+lon = 179.769578677181
+alt = 13775666518.2376
+hgt = -1
+nrm = 0,1,0
+rot = 0.2830657,-0.9195657,0.2650947,0.0632257
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+ORBIT
+{
+	SMA = 14154352155.7449
+	ECC = 0.0435849029541239
+	INC = 0.342008213789362
+	LPE = 7.62875935964859
+	LAN = 253.924327496323
+	MNA = 6.07558510719781
+	EPH = 1756933.84826673
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 828292002
+	mid = 828292002
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	dstg = 0
+	sqor = 0
+	sidx = 0
+	attm = 0
+	srfN = None, -1
+	mass = 150
+	temp = -1
+	expt = 0.1
+	state = 1
+	connected = True
+	attached = True
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 313.9141847
+	lifetime = 1708233.17871094
+	refTime = 1728000
+	size = 1
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}

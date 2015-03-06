@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\bin\Debug\DMPServer.exe
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\bin\Debug\DMPServer.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\bin\Debug\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\bin\Debug\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\bin\Debug\DarkMultiPlayer-Common.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\obj\Debug\DMPServer.exe
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\Server\obj\Debug\DMPServer.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\obj\Debug\DMPServer.exe
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\obj\Debug\DMPServer.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\bin\Debug\DMPServer.exe
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\bin\Debug\DMPServer.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\bin\Debug\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\bin\Debug\MessageWriter2.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\DMPJVServer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,107 @@
+[12:56:31][DEBUG] : Loading settings
+[12:56:31][DEBUG] : Saving settings
+[12:56:31][DEBUG] : System.IO compression works: True, test time: 5 ms.
+[12:56:31][DEBUG] : Loading plugins!
+[12:56:31][DEBUG] : Done!
+[12:56:31][INFO] : Starting DMPServer Custom, protocol 33
+[12:56:31][INFO] : Loading universe... 
+[12:56:31][INFO] : Done!
+[12:56:31][INFO] : Starting SUBSPACE server on port 6702... 
+[12:56:31][INFO] : Removed 0 debris
+[12:56:31][INFO] : Done!
+[12:56:31][INFO] : Done!
+[12:59:19][DEBUG] : Online players is now: 0, connected: 1
+[12:59:19][INFO] : New client connection from [::ffff:127.0.0.1]:37254
+[12:59:19][DEBUG] : Client MrSyntax registered!
+[12:59:19][DEBUG] : Loading admins
+[12:59:19][DEBUG] : Saving admins
+[12:59:19][INFO] : Client MrSyntax handshook successfully, version: v0.2.0.2
+[12:59:19][DEBUG] : Online players is now: 1, connected: 1
+[12:59:20][DEBUG] : Sending MrSyntax to the latest subspace -1
+[12:59:20][DEBUG] : Sending MrSyntax 0 craft library entries
+[12:59:20][DEBUG] : Sending MrSyntax 0 kerbals...
+[12:59:20][DEBUG] : Sending MrSyntax 0 vessels, cached: 0...
+[12:59:20][DEBUG] : Saving kerbal Jebediah Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Bill Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Bob Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Donfal Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Greghat Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Luke Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Tanuki Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Calemone Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Desfen Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Danmin Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Tomdred Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Shelman Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Shepald Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Wildous Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Wehrsy Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Thombald Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Ferdorf Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Jermore Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Macler Kerman from MrSyntax
+[12:59:20][DEBUG] : Saving kerbal Mundock Kerman from MrSyntax
+[12:59:28][DEBUG] : MrSyntax acquired lock asteroid-spawning
+[12:59:51][DEBUG] : Saving 4 scenario modules from MrSyntax
+[13:03:04][DEBUG] : Saving vessel d83f4c98-970a-402e-92fe-67f1091fefda from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 6156d932-aad1-4785-8afb-a64741b7f968 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 78b2bc0f-8ffe-4515-a323-e314485f3753 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 2d6d5d17-0cb7-49ba-82e4-87e0157e6ce1 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 39be72be-4a37-4924-a7ce-950486970aae from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 8c65d4c6-d608-432b-bb9d-64b109638978 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel b9e0a8c6-c41f-4560-973c-2d0bc0c21956 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel aeaf596d-caa1-44cf-ba13-7bf7fc5b12dc from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 8db716c8-c64b-42e4-96c9-e394a61b3abf from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 8608952c-9c1c-47ad-9994-ec36120faaaa from MrSyntax
+[13:03:04][DEBUG] : Saving vessel f07f99e6-f51b-4bea-8471-c7caf9e44321 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 7048c080-3123-4556-8b69-e2d2af8be205 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 83df9620-117c-434e-ae2a-fbd6d9a8bb4a from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 455cd4af-528a-4b83-90ea-e24dcc7d6cbd from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 02613252-35e6-4d68-9fa3-bb27ae978868 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 1d254b5c-ed08-4554-b198-9be3de09695e from MrSyntax
+[13:03:04][DEBUG] : Saving vessel c2de1bd9-c756-4ad4-8be7-89a130fb1240 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 6dfacc02-ebbb-4914-a35e-83c71d17f2a4 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 25a5ba1d-47a8-41c1-9cc4-c7b4f56c9634 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 67344f31-d6e7-47cc-81eb-042eb07a25d2 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel e2e504fd-82d7-475e-9207-b237862f03f8 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 2fbb0ca5-dda9-4ac0-8be6-b092220a3eab from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 2158a776-b738-4baf-982c-3eee768ec0a9 from MrSyntax
+[13:03:04][DEBUG] : Saving vessel 0e152e10-0aa0-4cfb-bfc8-d94248feb27d from MrSyntax
+[13:03:05][DEBUG] : Saving vessel f8469fbb-915b-41c0-b380-775e0a0e23ad from MrSyntax
+[13:03:05][DEBUG] : Saving vessel 77e0de26-3f59-42ba-98e1-ca5ab3f50c42 from MrSyntax
+[13:03:05][DEBUG] : Saving vessel 00845102-f66e-44ff-a41e-01eec416f00f from MrSyntax
+[13:03:05][DEBUG] : Saving vessel d789e909-66bc-419d-997c-d1064d5feba2 from MrSyntax
+[13:03:05][DEBUG] : Saving vessel a1481880-4279-4050-b1b0-ae8384a15d47 from MrSyntax
+[13:03:05][DEBUG] : Saving vessel 468ebba6-78f8-4802-bc6b-06fde38c7fa2 from MrSyntax
+[13:03:08][DEBUG] : MrSyntax acquired lock control-414dafd7-2ae3-4e45-9eb4-16277c481cc6
+[13:03:17][DEBUG] : MrSyntax acquired lock update-414dafd7-2ae3-4e45-9eb4-16277c481cc6
+[13:03:17][DEBUG] : Saving kerbal Jebediah Kerman from MrSyntax
+[13:03:17][DEBUG] : Relaying FLYING vessel 414dafd7-2ae3-4e45-9eb4-16277c481cc6 from MrSyntax
+[13:03:21][DEBUG] : Saving 1 scenario modules from MrSyntax
+[13:03:47][DEBUG] : Relaying FLYING vessel 414dafd7-2ae3-4e45-9eb4-16277c481cc6 from MrSyntax
+[13:03:51][DEBUG] : Saving 1 scenario modules from MrSyntax
+[13:04:17][DEBUG] : Relaying FLYING vessel 414dafd7-2ae3-4e45-9eb4-16277c481cc6 from MrSyntax
+[13:04:21][DEBUG] : Saving 1 scenario modules from MrSyntax
+[13:04:24][DEBUG] : Relaying FLYING vessel 414dafd7-2ae3-4e45-9eb4-16277c481cc6 from MrSyntax
+[13:04:24][DEBUG] : MrSyntax acquired lock update-5286b96a-982b-4220-b7d6-f20cafe980fa
+[13:04:24][DEBUG] : MrSyntax acquired lock update-4a2db49a-6c11-4687-ac0a-442af4f8568c
+[13:04:24][DEBUG] : MrSyntax acquired lock update-7e6c4668-5263-46b7-b8d7-49462bd1aa36
+[13:04:24][DEBUG] : MrSyntax acquired lock update-32489a9f-6559-4783-90a2-77b49346355a
+[13:04:24][DEBUG] : Relaying FLYING vessel 4a2db49a-6c11-4687-ac0a-442af4f8568c from MrSyntax
+[13:04:24][DEBUG] : Relaying FLYING vessel 5286b96a-982b-4220-b7d6-f20cafe980fa from MrSyntax
+[13:04:24][DEBUG] : Relaying FLYING vessel 7e6c4668-5263-46b7-b8d7-49462bd1aa36 from MrSyntax
+[13:04:24][DEBUG] : Relaying FLYING vessel 32489a9f-6559-4783-90a2-77b49346355a from MrSyntax
+[13:04:38][DEBUG] : Removing vessel 4a2db49a-6c11-4687-ac0a-442af4f8568c from MrSyntax
+[13:04:38][DEBUG] : Removing vessel 7e6c4668-5263-46b7-b8d7-49462bd1aa36 from MrSyntax
+[13:04:38][DEBUG] : Removing vessel 32489a9f-6559-4783-90a2-77b49346355a from MrSyntax
+[13:04:38][DEBUG] : Removing vessel 5286b96a-982b-4220-b7d6-f20cafe980fa from MrSyntax
+[13:04:43][DEBUG] : MrSyntax released lock update-4a2db49a-6c11-4687-ac0a-442af4f8568c
+[13:05:03][INFO] : Disconnecting client MrSyntax, endpoint [::ffff:127.0.0.1]:37254, Connection timed out
+[13:05:36][DEBUG] : MrSyntax released lock update-5286b96a-982b-4220-b7d6-f20cafe980fa
+[13:05:36][DEBUG] : MrSyntax released lock update-7e6c4668-5263-46b7-b8d7-49462bd1aa36
+[13:05:36][DEBUG] : MrSyntax released lock update-32489a9f-6559-4783-90a2-77b49346355a
+[13:05:36][DEBUG] : Saving 1 scenario modules from MrSyntax
+[13:05:36][DEBUG] : Relaying FLYING vessel 414dafd7-2ae3-4e45-9eb4-16277c481cc6 from MrSyntax
+[13:05:36][DEBUG] : Saving 1 scenario modules from MrSyntax
+[13:05:36][DEBUG] : Relaying FLYING vessel 414dafd7-2ae3-4e45-9eb4-16277c481cc6 from MrSyntax
+[13:05:36][DEBUG] : Online players is now: 0, connected: 0

@@ -1,0 +1,16 @@
+name = Ferdorf Kerman
+type = Crew
+brave = 0.5651581
+dumb = 0.09426379
+badS = False
+state = Available
+ToD = 0
+idx = -1
+CAREER_LOG
+{
+	flight = 0
+}
+FLIGHT_LOG
+{
+	flight = 0
+}

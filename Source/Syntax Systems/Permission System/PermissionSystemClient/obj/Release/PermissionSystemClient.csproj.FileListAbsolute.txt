@@ -1,0 +1,29 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\obj\Release\PermissionSystemClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\PermissionSystemClient.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\PermissionSystemClient.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\DarkMultiPlayer.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\UnityEngine.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\obj\Release\PermissionSystemClient.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\obj\Release\PermissionSystemClient.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\AntiCheatSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\AntiCheatSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\PermissionSystemClient\bin\Release\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Client\PermissionSystemClient.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Client\PermissionSystemClient.pdb
+D:\github\SyntaxPlugins\Client\PermissionSystemClient.dll
+D:\github\SyntaxPlugins\Client\PermissionSystemClient.pdb
+D:\github\DMP - Joint Venture\PermissionSystemClient\obj\Release\PermissionSystemClient.csprojResolveAssemblyReference.cache
+D:\github\DMP - Joint Venture\PermissionSystemClient\obj\Release\PermissionSystemClient.dll
+D:\github\DMP - Joint Venture\PermissionSystemClient\obj\Release\PermissionSystemClient.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureClient\Plugins\PermissionSystemClient.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureClient\Plugins\PermissionSystemClient.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Permission System\PermissionSystemClient\obj\Release\PermissionSystemClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Permission System\PermissionSystemClient\obj\Release\PermissionSystemClient.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Permission System\PermissionSystemClient\obj\Release\PermissionSystemClient.pdb

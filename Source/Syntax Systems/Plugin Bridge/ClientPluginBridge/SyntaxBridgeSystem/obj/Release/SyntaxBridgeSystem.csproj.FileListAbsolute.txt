@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\DarkMultiPlayer.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\UnityEngine.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\AntiCheatSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\bin\Release\AntiCheatSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Client\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Client\SyntaxBridgeSystem.pdb
+D:\github\SyntaxPlugins\Client\SyntaxBridgeSystem.dll
+D:\github\SyntaxPlugins\Client\SyntaxBridgeSystem.pdb
+D:\github\DMP - Joint Venture\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.csprojResolveAssemblyReference.cache
+D:\github\DMP - Joint Venture\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.dll
+D:\github\DMP - Joint Venture\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureClient\Plugins\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Release\DMPJointVentureClient\Plugins\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\Plugin Bridge\ClientPluginBridge\SyntaxBridgeSystem\obj\Release\SyntaxBridgeSystem.pdb

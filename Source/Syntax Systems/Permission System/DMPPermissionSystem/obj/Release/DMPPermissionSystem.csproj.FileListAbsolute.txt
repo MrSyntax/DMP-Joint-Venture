@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\obj\Release\DMPPermissionSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\obj\Release\DMPPermissionSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\DMPPermissionSystem\obj\Release\DMPPermissionSystem.csprojResolveAssemblyReference.cache

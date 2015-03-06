@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\obj\Release\TradingSystemClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\TradingSystemClient.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\TradingSystemClient.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\DarkMultiPlayer-Common.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\DarkMultiPlayer.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\MessageWriter2.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\UnityEngine.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\obj\Release\TradingSystemClient.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\obj\Release\TradingSystemClient.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\AntiCheatSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\AntiCheatSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\SyntaxBridgeSystem.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\SyntaxBridgeSystem.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\SyntaxSystemsCommon.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\DarkMultiPlayer-master\TradingSystemClient\bin\Release\SyntaxSystemsCommon.pdb
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Client\TradingSystemClient.dll
+C:\Users\Admin\Desktop\Studie\DarkMultiPlayer-master\SyntaxPlugins\Client\TradingSystemClient.pdb
+D:\github\SyntaxPlugins\Client\TradingSystemClient.dll
+D:\github\SyntaxPlugins\Client\TradingSystemClient.pdb
+D:\github\DMP - Joint Venture\TradingSystemClient\obj\Release\TradingSystemClient.csprojResolveAssemblyReference.cache
+D:\github\DMP - Joint Venture\TradingSystemClient\obj\Release\TradingSystemClient.dll
+D:\github\DMP - Joint Venture\TradingSystemClient\obj\Release\TradingSystemClient.pdb
