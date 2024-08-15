@@ -1,5 +1,0 @@
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\PersoonDLL\PersoonDLL\bin\Debug\PersoonDLL.dll
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\PersoonDLL\PersoonDLL\bin\Debug\PersoonDLL.pdb
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\PersoonDLL\PersoonDLL\obj\Debug\PersoonDLL.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\PersoonDLL\PersoonDLL\obj\Debug\PersoonDLL.dll
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\PersoonDLL\PersoonDLL\obj\Debug\PersoonDLL.pdb
