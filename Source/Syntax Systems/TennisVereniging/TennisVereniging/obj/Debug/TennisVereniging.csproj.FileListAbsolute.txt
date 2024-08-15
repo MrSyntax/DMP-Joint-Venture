@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\TennisVereniging\TennisVereniging\bin\TennisVereniging.dll.config
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\TennisVereniging\TennisVereniging\bin\TennisVereniging.dll
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\TennisVereniging\TennisVereniging\bin\TennisVereniging.pdb
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\TennisVereniging\TennisVereniging\obj\Debug\TennisVereniging.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\TennisVereniging\TennisVereniging\obj\Debug\TennisVereniging.dll
-C:\Users\Admin\Desktop\DMP Joint Venture\Source\Syntax Systems\TennisVereniging\TennisVereniging\obj\Debug\TennisVereniging.pdb
